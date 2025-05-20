@@ -1,5 +1,5 @@
 # Automated Coursera Course Bot
-[](kfkejdgfee.png)
+![](kfkejdgfee.png)
 ## [Bot 100% Marked Video and Reading Module]
 
 This Python script automates interactions with Coursera courses, including marking videos and readings as completed, and navigating through course content. It supports **Remote Desktop Protocol (RDP)** usage on GitHub and uses Selenium for browser automation.
